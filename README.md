@@ -13,7 +13,7 @@ Xin chào! Tôi là **Anh Duc** – một người VN
 ## 📫 Liên hệ
 
 - Email: [bckduc2k4@gmail.com](mailto:bckduc2k4@gmail.com)
-- Facebook: [facebook.com/bckducc](facebook.com/bckducc)
+- Facebook: [facebook.com/bckducc](https://facebook.com/bckducc)
 
 
 <p align="center">
