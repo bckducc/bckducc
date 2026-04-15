@@ -15,12 +15,5 @@ Xin chào! Mình là **Anh Đức**.
 - 📧 Email: [bckduc2k4@gmail.com](mailto:bckduc2k4@gmail.com)
 - 💬 Facebook: [facebook.com/bckducc](https://facebook.com/bckducc)
 - 📷 Instagram: [instagram.com/bckducc](https://instagram.com/bckad4r)
-- 💼 LinkedIn: [linkedin.com/in/bckduc](https://linkedin.com/in/bckduc) 
 
 ---
-
-<p align="center">
-  💖 Cảm ơn bạn đã ghé thăm GitHub của tôi!  
-  <br/>
-  ⭐ Hãy follow nếu bạn thấy hứng thú với dự án của mình nhé!
-</p>
